@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Fun_House.aternos.me:33971",
+    "port": 33971,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
