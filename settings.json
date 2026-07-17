@@ -8,7 +8,7 @@
   "server": {
     "ip": "Fun_House.aternos.me:33971",
     "port": 33971,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
