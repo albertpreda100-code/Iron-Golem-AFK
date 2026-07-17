@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fun_House.aternos.me:33971",
+    "ip": "Fun_House.aternos.me",
     "port": 33971,
     "version": "1.21.1"
   },
